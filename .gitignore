@@ -1,0 +1,5 @@
+.tools/
+output_pdfs/
+input_files/
+__pycache__/
+*.py[cod]
